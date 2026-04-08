@@ -4,7 +4,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb)
 ![JavaScript](https://img.shields.io/badge/JavaScript-94%25-F7DF1E?style=flat-square&logo=javascript)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?style=flat-square&logo=vercel)
 
 > A beautiful, full-stack task management application built with the MERN stack — forked and maintained by [@rohitshivhare21](https://github.com/rohitshivhare21)
